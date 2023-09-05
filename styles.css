@@ -7,7 +7,7 @@
 .info{
     display: flex;
     justify-content: center;
-    font-size: xx-large;
+    font-size: large;
 }
 .wrapper{
     width: 100vw;
